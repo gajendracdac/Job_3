@@ -2,6 +2,6 @@ public class Greeting
 {
 	public static void main(String [] args)
 	{
-	System.out.println("Hello User");
+	System.out.println("Hello User, This is world");
 	}
 }	
